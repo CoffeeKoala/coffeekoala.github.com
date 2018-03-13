@@ -1,7 +1,7 @@
 # Site settings
 title: coffeekoala Blog
 SEOTitle: coffeekoala的博客
-header-img: img/home-bg.jpg
+# header-img: img/home-bg.jpg
 email: coffeekoala@hotmail.com
 description: "自留地"
 keyword: "博客"
@@ -68,7 +68,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "你的气质里藏着你读过的书<br>走过的路<br>和你挖过的坑<br>和你挖过的坑<br>和你挖过的坑"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
