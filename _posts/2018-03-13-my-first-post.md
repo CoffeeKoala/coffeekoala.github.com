@@ -5,10 +5,12 @@ subtitle:     "丢啊丢啊丢过去"
 date:         2018-03-13 19:00:00
 author:       "CoffeeKoala"
 header-mask:  0.3
+header-img:   "img/post-bg-20180313.jpg"
 catalog:      true
 multilingual: true
 tags:
     - 碎碎念
+    - sublime
 ---
 
 # markdown grammar
