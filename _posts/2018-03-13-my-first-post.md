@@ -10,7 +10,7 @@ catalog:      true
 multilingual: true
 tags:
     - 碎碎念
-    - sublime
+    - 生活
 ---
 
 # markdown grammar
