@@ -71,8 +71,6 @@ package官网：https://packagecontrol.io/
     半透明界面，边代码边摸鱼不是梦 ^ ^
 - Transparency
 
-- TrailingSpace，去掉多余空格，强迫症患者福音。
-
 
 #### 格式化代码
 
@@ -80,6 +78,16 @@ package官网：https://packagecontrol.io/
 - pretty Json
 
 - SQL beautifier
+
+
+### 强迫症患者福音
+- TrailingSpace，去掉多余空格，强迫症患者福音。怀疑这个功能已经被集成了。
+-- 自带: setting trim_trailing_white_space_on_save
+-- 插件: trailing_spaces_trim_on_save
+
+- Alighment，快捷键可自行设置，不对齐不舒服斯基
+- CTRL+SHIFT+M：选中括号内内容，可用于检测括号匹配；
+
 
 
 
