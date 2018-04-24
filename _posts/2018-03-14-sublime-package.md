@@ -82,7 +82,9 @@ package官网：https://packagecontrol.io/
 
 ### 强迫症患者福音
 - TrailingSpace，去掉多余空格，强迫症患者福音。怀疑这个功能已经被集成了。
+
 -- 自带: setting trim_trailing_white_space_on_save
+
 -- 插件: trailing_spaces_trim_on_save
 
 - Alighment，快捷键可自行设置，不对齐不舒服斯基
